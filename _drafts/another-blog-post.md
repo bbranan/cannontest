@@ -3,13 +3,12 @@ layout: post
 title: Another Blog Post
 ---
 
-
-Ah, neat, I have an **editor**to work on this.
+Ah, neat, I have an **editor** to work on this.
 
 > It even allows for quotes
 
-* And&nbsp;
-* list
+* And
+* lists
 * of
 * things
 
@@ -22,5 +21,3 @@ And pictures![](/uploads/versions/plusone---x----128-128x---.png)And [links](htt
 ### Heading 3
 
 #### Heading 4
-
-&nbsp;
