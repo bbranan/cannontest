@@ -5,7 +5,7 @@ collections:
     output: true
 name: Creative Agency
 description: "We are a creative agency who provides web design, SEO, content and social services."
-baseurl: "/cannontest"
+baseurl: /cannontest
 defaults:
   -
     scope:
